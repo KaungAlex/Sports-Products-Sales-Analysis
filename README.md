@@ -25,11 +25,29 @@ The objective of this dashboard is to help management:
 🔗 [![Power BI Dashboard](https://img.shields.io/badge/Power%20BI-Live%20Dashboard-yellow?logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiYzYxMGJlYTAtNGJiYi00YTA1LTk1MWEtNmUwOGRmNWE5NDIwIiwidCI6ImEyMGQ5YzhhLTIzNDMtNDdhZi05Y2FhLWQwZDQ1MDhlZGRlMSIsImMiOjEwfQ%3D%3D)
 
 
+## 📸 Dashboard Pages
+
+### 1. Sales Analysis Dashboard
+
+Provides an overview of sales performance, profitability, product trends, and sales channel performance.
+
+![Sales Analysis Dashboard](PBI/SalesAnalysis.png)
+
 ---
 
-## 📸 Dashboard Overview
+### 2. Retailer Analysis Dashboard
 
-![Sports Products Dashboard](PBI/SalesAnalysis.png)
+Provides detailed insights into retailer performance and sales contribution across different retailers.
+
+**Highlights**
+
+- Retailer Sales Performance
+- Revenue by Retailer
+- Quantity Sold by Retailer
+- Profitability Analysis
+- Regional Retail Performance
+
+![Retailer Analysis Dashboard](PBI/SalesAnalysisRetail.png)
 
 ---
 
