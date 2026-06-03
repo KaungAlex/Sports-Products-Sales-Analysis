@@ -22,13 +22,14 @@ The objective of this dashboard is to help management:
 
 ## 🚀 Live Dashboard
 
-🔗 [View Interactive Dashboard](YOUR_POWER_BI_LINK)
+🔗 [![Power BI Dashboard](https://img.shields.io/badge/Power%20BI-Live%20Dashboard-yellow?logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiYzYxMGJlYTAtNGJiYi00YTA1LTk1MWEtNmUwOGRmNWE5NDIwIiwidCI6ImEyMGQ5YzhhLTIzNDMtNDdhZi05Y2FhLWQwZDQ1MDhlZGRlMSIsImMiOjEwfQ%3D%3D)
+
 
 ---
 
 ## 📸 Dashboard Overview
 
-![Sports Products Dashboard](screenshots/sports_products_dashboard.png)
+![Sports Products Dashboard](PBI/SalesAnalysis.png)
 
 ---
 
@@ -190,13 +191,3 @@ Providing flexible drill-down capabilities.
 * DAX Measures
 * Data Relationships
 * Performance Optimization
-
-
-
-## Author
-
-**Alex Kaung**
-
-Data Engineer | BI Developer | Data Analyst
-
-GitHub: https://github.com/KaungAlex
